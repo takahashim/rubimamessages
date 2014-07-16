@@ -7,7 +7,7 @@
 # ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
 bookname: book
 # 書名
-booktitle: Rubyist Magazine 巻頭言選集
+booktitle: Ruby、ときどきコミュニティ　Rubyist Magazine巻頭言選集
 # 著者
 aut: 高橋征義
 prt: 達人出版会
@@ -50,7 +50,7 @@ epubversion: 3
 # HTMLのバージョン(現時点では4または5。デフォルトは4。epubversionを3にした場合は自動で5に設定される)
 htmlversion: 5
 # review-compileに渡すパラメータ
-params: --stylesheet=main.css --subdirmode --chapterlink
+params: --stylesheet=main.css --chapterlink
 ##params: --stylesheet=main.css --subdirmode
 cover_linear: "yes"
 # 目次生成用？
