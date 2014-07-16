@@ -1,7 +1,9 @@
 = 初秋の Ruby
 
 //quote{
-'Spring is gone. It's early autumn for Paul.' ―― Early Autumn, Robert B. Parker
+'Spring is gone. It's early autumn for Paul.'
+
+―― Early Autumn, Robert B. Parker
 //}
 
 少し暗いことを書く。
