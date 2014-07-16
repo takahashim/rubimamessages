@@ -25,4 +25,4 @@
 
 ――もちろんこのことは、過去の号の Rubyist Magazine についてもあてはまる。 読者諸賢のご健闘を心よりお祈りする。
 
-//footnote[fn1][ 「自信を持って Apache を操るために (InternetWeek2005 資料,PDF)」,http://www.nic.ad.jp/ja/materials/iw/2005/proceedings/T16.pdf]
+//footnote[fn1][ 「自信を持って Apache を操るために (InternetWeek2005 資料,PDF)」,@<href>{http://www.nic.ad.jp/ja/materials/iw/2005/proceedings/T16.pdf}]
